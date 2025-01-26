@@ -100,10 +100,9 @@ Courses | Duration | Effort | Prerequisites | Status
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 20 weeks | 10 hours/week | One year programming experience | -
 [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 16 weeks | 10 hours/week | C++ programming | -
 [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 12 weeks | 10 hours/week | strong programming | -
-[Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | 16 weeks | 10 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations) | -
+<!--[Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | 16 weeks | 10 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations) | - -->
 
 ## Recommended
-
 
 ### Core theory
 
@@ -180,7 +179,7 @@ Courses | Duration | Effort | Prerequisites | Status
 [Introduction to  Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property)| 4 weeks | 2 hours/week | none | -
 [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| 3 weeks | 3 hours/week | none | -
 
-## Congratulations
+<!--## Congratulations
 
 After completing the requirements of the curriculum above,
 you will have completed the equivalent of a full bachelor's degree in Computer Science.
@@ -190,8 +189,7 @@ What is next for you? The possibilities are boundless and overlapping:
 
 - Pay attention to emerging technologies in the world of software development:
   + Explore the **actor model** through [Elixir](https://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
-  + Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
+  + Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector! -->
 
-## How to show your progress
-
-[Fork](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/) the [GitHub repo](https://github.com/ossu/computer-science) into your own GitHub account and put ✅ next to the stuff you've completed as you complete it. This can serve as your [kanban board](https://en.wikipedia.org/wiki/Kanban_board) and will be faster to implement than any other solution (giving you time to spend on the courses).
+## Progress
+**Done** is ✅ and **Current** is ⬅️.
