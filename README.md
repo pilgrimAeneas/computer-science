@@ -14,7 +14,7 @@ This course will introduce you to the world of computer science and programming.
 
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
-[CS50's Introduction to Programming and Computer Science](https://cs50.harvard.edu/x/2025/) | 12 weeks | 10-20 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | ✅
+[CS50's Introduction to Programming and Computer Science](https://cs50.harvard.edu/x/2025/) | 12 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | ✅
 
 ## Core CS
 
@@ -37,13 +37,13 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
-[Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | ⬅️
-[Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math | -
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | -
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | -
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | -
-[Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 13 weeks | 5-10 hours/week | Class Based Program Design | -
-[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | -
+[Systematic Program Design](coursepages/spd/README.md) | 12 weeks | 10 hours/week | none | ⬅️
+[Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 12 weeks | 10 hours/week | Systematic Program Design, High School Math | -
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 6 weeks | 8 hours/week | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | -
+[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 8 hours/week | Programming Languages, Part A | -
+[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 8 hours/week | Programming Languages, Part B | -
+[Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 12 weeks | 10 hours/week | Class Based Program Design | -
+[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 5 hours/week | Object Oriented Design | -
 
 ### CS Tools
 Understanding theory is important, but you will also be expected to create programs. There are a number of tools that are widely used to make that process easier. Learn them now to ease your future work writing programs.
@@ -79,10 +79,10 @@ Courses | Duration | Effort | Prerequisites | Status
 
 Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--:
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alternative](https://www.nand2tetris.org/)) |  6 weeks | 7-13 hours/week | - | C-like programming language | ⬅️
-[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I | -
-[Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week | - | Nand to Tetris Part II | -
-[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | -
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alternative](https://www.nand2tetris.org/)) |  6 weeks | 13 hours/week | - | C-like programming language | ⬅️
+[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 18 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I | -
+[Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 12 weeks | 10 hours/week | - | Nand to Tetris Part II | -
+[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | -
 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | 10 hours/week | - | core programming | -
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | 10 hours/week | - | core programming | -
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | - | core programming | -
@@ -106,14 +106,14 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Sta
 
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
-[Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) ([alternative](https://github.com/ubccpsc/310/blob/main/resources/README.md)) | 6 weeks | 8-10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | -
+[Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) ([alternative](https://github.com/ubccpsc/310/blob/main/resources/README.md)) | 6 weeks | 10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | -
 [Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)| 8 weeks | 6 hours/week | Python, object-oriented programming | -
 [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | 4 weeks | 6 hours/week | Python, programming experience | -
 [Fullstack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | programming| -
-[Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience | -
-[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming | -
-[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | strong programming | -
-[Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | 26 weeks | 2-5 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations) | -
+[Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 20 weeks | 10 hours/week | One year programming experience | -
+[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 16 weeks | 10 hours/week | C++ programming | -
+[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 12 weeks | 10 hours/week | strong programming | -
+[Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | 16 weeks | 10 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations) | -
 
 ## Recommended
 
@@ -135,11 +135,11 @@ Courses | Duration | Effort | Prerequisites | Status
 
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
-[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | -
-[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | 4-8 hours/week | Divide and Conquer, Sorting and Searching, and Randomized Algorithms | -
-[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 4-8 hours/week | Graph Search, Shortest Paths, and Data Structures | -
-[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 4-8 hours/week | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | -
-[Compilers](https://www.edx.org/course/compilers) | 9 weeks | 6-8 hours/week | none | -
+[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | 8 hours/week | any programming language, Mathematics for Computer Science | -
+[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | 8 hours/week | Divide and Conquer, Sorting and Searching, and Randomized Algorithms | -
+[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 8 hours/week | Graph Search, Shortest Paths, and Data Structures | -
+[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 8 hours/week | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | -
+[Compilers](https://www.edx.org/course/compilers) | 9 weeks | 8 hours/week | none | -
 
 ### Core security
 **Topics covered**
@@ -153,7 +153,7 @@ Courses | Duration | Effort | Prerequisites | Status
 
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
-[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | -
+[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | 8 weeks | 12 hours/week | - | -
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | - | -
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | - | -
 
@@ -168,12 +168,12 @@ Courses | Duration | Effort | Prerequisites | Status
 
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
-[Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) | 5 weeks | 4-6 hours/week | understanding basic web technologies | -
+[Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) | 5 weeks | 6 hours/week | understanding basic web technologies | -
 [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | 3 hours/week | - | -
-[Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 2-3 hours/week | Core Security | -
-[Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) | 7 weeks | 1-2 hours/week | Core Programming and Core Security | -
-[Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements, Design, and Reuse | -
-[Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation | -
+[Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 3 hours/week | Core Security | -
+[Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) | 7 weeks | 2 hours/week | Core Programming and Core Security | -
+[Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | 7 weeks | 2 hours/week | Secure Software Development: Requirements, Design, and Reuse | -
+[Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 2 hours/week | Secure Software Development: Implementation | -
 
 ## Optional
 
