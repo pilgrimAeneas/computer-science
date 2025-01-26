@@ -40,10 +40,10 @@ Courses | Duration | Effort | Prerequisites | Status
 [Systematic Program Design](coursepages/spd/README.md) | 12 weeks | 10 hours/week | none | ⬅️
 [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 12 weeks | 10 hours/week | Systematic Program Design, High School Math | -
 [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 12 weeks | 10 hours/week | Class Based Program Design | -
-[The Missing Semester of CS](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | -
 [Programming Languages, A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 10 hours/week | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | -
 [Programming Languages, B](https://www.coursera.org/learn/programming-languages-part-b) | 4 weeks | 10 hours/week | Programming Languages, Part A | -
 [Programming Languages, C](https://www.coursera.org/learn/programming-languages-part-c) | 4 weeks | 10 hours/week | Programming Languages, Part B | -
+[The Missing Semester](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | -
 
 ### CS Tools
 Understanding theory is important, but you will also be expected to create programs. There are a number of tools that are widely used to make that process easier. Learn them now to ease your future work writing programs.
