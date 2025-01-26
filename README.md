@@ -14,7 +14,7 @@ This course will introduce you to the world of computer science and programming.
 
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | ✅
+[CS50's Introduction to Programming and Computer Science](https://cs50.harvard.edu/x/2025/) | 12 weeks | 10-20 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | ✅
 
 ## Core CS
 
