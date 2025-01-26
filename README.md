@@ -45,19 +45,6 @@ Courses | Duration | Effort | Prerequisites | Status
 [Programming Languages, C](https://www.coursera.org/learn/programming-languages-part-c) | 4 weeks | 10 hours/week | Programming Languages, Part B | -
 [The Missing Semester](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | -
 
-### CS Tools
-Understanding theory is important, but you will also be expected to create programs. There are a number of tools that are widely used to make that process easier. Learn them now to ease your future work writing programs.
-
-**Topics covered**:
-`terminals and shell scripting`
-`vim`
-`command line environments`
-`version control`
-`and more`
-
-Courses | Duration | Effort | Prerequisites | Status
-:-- | :--: | :--: | :--: | :--:
-
 ### Core systems
 
 **Topics covered**:
