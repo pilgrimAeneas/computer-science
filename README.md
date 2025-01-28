@@ -89,7 +89,7 @@ Courses | Duration | Effort | Additional Text| Prerequisites | Status
 
 ## Recommended
 
-### Core theory
+### Recommended theory
 
 **Topics covered**:
 `divide and conquer`
@@ -113,7 +113,7 @@ Courses | Duration | Effort | Prerequisites | Status
 [Programming Languages, C](https://www.coursera.org/learn/programming-languages-part-c) | 4 weeks | 10 hours/week | Programming Languages, Part B | -
 [Compilers](https://www.edx.org/course/compilers) | 9 weeks | 10 hours/week | none | -
 
-### Core security
+### Recommended security
 **Topics covered**
 `Confidentiality, Integrity, Availability`
 `Secure Design`
@@ -149,7 +149,7 @@ Courses | Duration | Effort | Prerequisites | Status
 
 ## Optional
 
-### Core ethics
+### Optional ethics
 
 **Topics covered**:
 `Social Context`
