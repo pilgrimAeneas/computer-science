@@ -18,8 +18,6 @@ Courses | Duration | Effort | Prerequisites | Status
 
 ## Core CS
 
-All coursework under Core CS is **required**, unless otherwise indicated.
-
 ### Core programming
 **Topics covered**:
 `functional programming`
@@ -40,10 +38,18 @@ Courses | Duration | Effort | Prerequisites | Status
 [Systematic Program Design](coursepages/spd/README.md) | 12 weeks | 10 hours/week | none | ⬅️
 [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 12 weeks | 10 hours/week | Systematic Program Design, High School Math | -
 [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 12 weeks | 10 hours/week | Class Based Program Design | -
-[Programming Languages, A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 10 hours/week | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | -
-[Programming Languages, B](https://www.coursera.org/learn/programming-languages-part-b) | 4 weeks | 10 hours/week | Programming Languages, Part A | -
-[Programming Languages, C](https://www.coursera.org/learn/programming-languages-part-c) | 4 weeks | 10 hours/week | Programming Languages, Part B | -
 [The Missing Semester](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | -
+
+Programming **applications**:
+
+Courses | Duration | Effort | Prerequisites | Status
+:-- | :--: | :--: | :--: | :--:
+[Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | 6 weeks | 10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | -
+[University of Helsinki, Full Stack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | programming| -
+[Functional Programming in Scala](https://www.coursera.org/specializations/scala) | 20 weeks | 10 hours/week | One year programming experience | - | -
+<!-- [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 5 hours/week | Object Oriented Design | - -->
+<!-- [Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)| 8 weeks | 6 hours/week | Python, object-oriented programming | - -->
+<!-- [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | 4 weeks | 6 hours/week | Python, programming experience | - -->
 
 ### Core systems
 
@@ -73,34 +79,13 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Sta
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | 10 hours/week | - | core programming | -
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | - | core programming | -
 
-### Core applications
+Systems **applications**:
 
-**Topics covered**:
-`Agile methodology`
-`REST`
-`software specifications`
-`refactoring`
-`relational databases`
-`transaction processing`
-`data modeling`
-`neural networks`
-`supervised learning`
-`unsupervised learning`
-`OpenGL`
-`ray tracing`
-`and more`
-
-Courses | Duration | Effort | Prerequisites | Status
-:-- | :--: | :--: | :--: | :--:
-[Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) ([alternative](https://github.com/ubccpsc/310/blob/main/resources/README.md)) | 6 weeks | 10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | -
-[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 5 hours/week | Object Oriented Design | -
-[Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)| 8 weeks | 6 hours/week | Python, object-oriented programming | -
-[Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | 4 weeks | 6 hours/week | Python, programming experience | -
-[Fullstack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | programming| -
-[Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 20 weeks | 10 hours/week | One year programming experience | -
-[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 16 weeks | 10 hours/week | C++ programming | -
-[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 12 weeks | 10 hours/week | strong programming | -
-<!--[Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | 16 weeks | 10 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations) | - -->
+Courses | Duration | Effort | Additional Text| Prerequisites | Status
+:-- | :--: | :--: | :--: | :--: | :--:
+[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 16 weeks | 10 hours/week | C++ programming | - | -
+[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 12 weeks | 10 hours/week | strong programming | - | -
+<!-- [Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | 16 weeks | 10 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations) | - | - -->
 
 ## Recommended
 
@@ -121,10 +106,11 @@ Courses | Duration | Effort | Prerequisites | Status
 
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
-[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | 10 hours/week | any programming language, Mathematics for Computer Science | -
-[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | 10 hours/week | Divide and Conquer, Sorting and Searching, and Randomized Algorithms | -
-[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 10 hours/week | Graph Search, Shortest Paths, and Data Structures | -
-[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 10 hours/week | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | -
+[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | 7 weeks | 10 hours/week | Basic Java | -
+[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | 7 weeks | 10 hours/week | Algorithms I | -
+[Programming Languages, A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 10 hours/week | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | -
+[Programming Languages, B](https://www.coursera.org/learn/programming-languages-part-b) | 4 weeks | 10 hours/week | Programming Languages, Part A | -
+[Programming Languages, C](https://www.coursera.org/learn/programming-languages-part-c) | 4 weeks | 10 hours/week | Programming Languages, Part B | -
 [Compilers](https://www.edx.org/course/compilers) | 9 weeks | 10 hours/week | none | -
 
 ### Core security
