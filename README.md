@@ -45,7 +45,7 @@ Programming **applications**:
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | 6 weeks | 10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | -
-[University of Helsinki, Full Stack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | programming| -
+[University of Helsinki, Full Stack Open](https://fullstackopen.com/en/) | 14 weeks | 10 hours/week | programming| -
 [Functional Programming in Scala](https://www.coursera.org/specializations/scala) | 20 weeks | 10 hours/week | One year programming experience | - | -
 <!-- [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 5 hours/week | Object Oriented Design | - -->
 <!-- [Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)| 8 weeks | 6 hours/week | Python, object-oriented programming | - -->
@@ -83,7 +83,7 @@ Systems **applications**:
 
 Courses | Duration | Effort | Additional Text| Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--:
-[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 16 weeks | 10 hours/week | C++ programming | - | -
+[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 20 weeks | 10 hours/week | C++ programming | - | -
 [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 12 weeks | 10 hours/week | strong programming | - | -
 <!-- [Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | 16 weeks | 10 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations) | - | - -->
 
