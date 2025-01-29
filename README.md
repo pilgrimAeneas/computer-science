@@ -33,8 +33,8 @@ Both cores are to be done in **parallel**.
 `Ruby`
 `and more`
 
-Courses | Duration | Status
-:-- | :--: | :--: 
+Courses | Duration | Prerequisites | Status
+:-- | :--: | :--: | :--:
 [Systematic Program Design](coursepages/spd/README.md) | 12 weeks | none | ⬅️
 [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 12 weeks | Systematic Program Design, High School Math | -
 [Object-oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 12 weeks | Class Based Program Design | -
