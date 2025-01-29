@@ -25,7 +25,7 @@ Courses | Duration | Additional| Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Computer Architecture](https://www.nand2tetris.org/) |  12 weeks | [I](https://www.coursera.org/learn/build-a-computer), [II](https://www.coursera.org/learn/nand2tetris2) | C-like programming language | ⬅️
 [Operating Systems](coursepages/ostep/README.md) | 12 weeks | - | Nand to Tetris Part II | -
-[Computer Networks](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | -
+[Computer Networks](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 6 weeks | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | -
 [Database Systems](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)| 6 weeks | [I](https://www.edx.org/course/modeling-and-theory), [II](https://www.edx.org/course/databases-5-sql), [III](https://www.edx.org/course/semistructured-data) | core programming | -
 [Distributed Systems](https://www.coursera.org/specializations/cloud-computing) | 16 weeks | - | C++ programming | -
 
