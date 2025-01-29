@@ -2,16 +2,15 @@
 <h1>Wizard-class Programming and Computer Science</h1>
 </div>
 
-## Intro CS
+<!-- ## Intro CS
 
 Courses | Duration | Prerequisites | Status
 :-- | :--: | :--: | :--: 
-[Introduction to Programming and Computer Science](https://cs50.harvard.edu/x/2025/) | 12 weeks | [high school algebra](https://www.khanacademy.org/math/algebra-home) | ✅
+[Introduction to Programming and Computer Science](https://cs50.harvard.edu/x/2025/) | 12 weeks | [high school algebra](https://www.khanacademy.org/math/algebra-home) | ✅ -->
 
 ## Core CS
 Both cores are to be done in **parallel**.
 ### Core programming
-
 Courses | Duration | Prerequisites | Status
 :-- | :--: | :--: | :--:
 [Systematic Program Design](coursepages/spd/README.md) | 12 weeks | none | ⬅️
@@ -20,7 +19,6 @@ Courses | Duration | Prerequisites | Status
 [Parallel Programming](https://www.coursera.org/specializations/scala) | 16 weeks | One year programming experience | -
 
 ### Core systems
-
 Courses | Duration | Additional| Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Computer Architecture](https://www.nand2tetris.org/) |  12 weeks | [I](https://www.coursera.org/learn/build-a-computer), [II](https://www.coursera.org/learn/nand2tetris2) | C-like programming language | ⬅️
@@ -29,7 +27,7 @@ Courses | Duration | Additional| Prerequisites | Status
 [Database Systems](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)| 6 weeks | [I](https://www.edx.org/course/modeling-and-theory), [II](https://www.edx.org/course/databases-5-sql), [III](https://www.edx.org/course/semistructured-data) | core programming | -
 [Distributed Systems](https://www.coursera.org/specializations/cloud-computing) | 16 weeks | - | C++ programming | -
 
-### Extra programming and systems
+## Optional
 This section covers the *rest* of the theory usually offered in a decent CS school.
 Courses | Duration | Prerequisites | Additional | Status
 :-- | :--: | :--: | :--: | :--:
