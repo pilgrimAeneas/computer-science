@@ -58,7 +58,7 @@ Courses | Duration | Status
 `network protocols`
 `and more`
 
-Courses | Duration | Additional Text / Assignments| Prerequisites | Status
+Courses | Duration | Additional| Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Computer Architecture](https://www.nand2tetris.org/) |  12 weeks | [I](https://www.coursera.org/learn/build-a-computer), [II](https://www.coursera.org/learn/nand2tetris2) | C-like programming language | ⬅️
 [Operating Systems](coursepages/ostep/README.md) | 12 weeks | - | Nand to Tetris Part II | -
