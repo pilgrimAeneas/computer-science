@@ -29,7 +29,7 @@ Courses | Duration | Additional| Prerequisites | Status
 [Database Systems](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)| 6 weeks | [I](https://www.edx.org/course/modeling-and-theory), [II](https://www.edx.org/course/databases-5-sql), [III](https://www.edx.org/course/semistructured-data) | core programming | -
 [Distributed Systems](https://www.coursera.org/specializations/cloud-computing) | 16 weeks | - | C++ programming | -
 
-## Recommended
+### Extra programming and systems
 This section covers the *rest* of the theory usually offered in a decent CS school.
 Courses | Duration | Prerequisites | Additional | Status
 :-- | :--: | :--: | :--: | :--:
@@ -45,13 +45,13 @@ Courses | Duration | Effort | Prerequisites | Status
 [Software Engineering](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | 6 weeks | 10 hours/week | a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | -
 [Full Stack Open](https://fullstackopen.com/en/) | 14 weeks | 10 hours/week | - | -
 
-## Optional
+<!-- ## Optional
 
-<!-- What is next for you? The possibilities are boundless and overlapping:
+What is next for you? The possibilities are boundless and overlapping:
 
 Pay attention to emerging technologies in the world of software development:
 + Explore the **actor model** through [Elixir](https://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
-+ Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector! -->
++ Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
 
 ### Optional security
 
@@ -85,7 +85,7 @@ Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)| 9 weeks | 2 hours/week | none | -
 [Introduction to  Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property)| 4 weeks | 2 hours/week | none | -
-[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| 3 weeks | 3 hours/week | none | -
+[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| 3 weeks | 3 hours/week | none | - -->
 
 ## Progress
 **Done** is ✅ and **Current** is ⬅️.
