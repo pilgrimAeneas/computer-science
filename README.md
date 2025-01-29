@@ -17,7 +17,7 @@ Courses | Duration | Effort | Prerequisites | Status
 [CS50's Introduction to Programming and Computer Science](https://cs50.harvard.edu/x/2025/) | 12 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | ✅
 
 ## Core CS
-
+Both cores are to be done in **parallel**.
 ### Core programming
 **Topics covered**:
 `functional programming`
@@ -38,18 +38,7 @@ Courses | Duration | Effort | Prerequisites | Status
 [Systematic Program Design](coursepages/spd/README.md) | 12 weeks | 10 hours/week | none | ⬅️
 [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 12 weeks | 10 hours/week | Systematic Program Design, High School Math | -
 [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 12 weeks | 10 hours/week | Class Based Program Design | -
-[The Missing Semester](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | -
-
-Programming **applications**:
-
-Courses | Duration | Effort | Prerequisites | Status
-:-- | :--: | :--: | :--: | :--:
-[Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | 6 weeks | 10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | -
-[University of Helsinki, Full Stack Open](https://fullstackopen.com/en/) | 14 weeks | 10 hours/week | programming| -
-[Functional Programming in Scala](https://www.coursera.org/specializations/scala) | 20 weeks | 10 hours/week | One year programming experience | - | -
-<!-- [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 5 hours/week | Object Oriented Design | - -->
-<!-- [Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)| 8 weeks | 6 hours/week | Python, object-oriented programming | - -->
-<!-- [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | 4 weeks | 6 hours/week | Python, programming experience | - -->
+[Parallel Programming](https://www.coursera.org/specializations/scala) | 16 weeks | 10 hours/week | One year programming experience | -
 
 ### Core systems
 
@@ -71,21 +60,27 @@ Courses | Duration | Effort | Prerequisites | Status
 
 Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--:
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alternative](https://www.nand2tetris.org/)) |  6 weeks | 13 hours/week | - | C-like programming language | ⬅️
-[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 18 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I | -
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alternative](https://www.nand2tetris.org/)) |  6 weeks | 10 hours/week | - | C-like programming language | ⬅️
+[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 10 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I | -
 [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 12 weeks | 10 hours/week | - | Nand to Tetris Part II | -
-[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | -
+[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 10 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | -
 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | 10 hours/week | - | core programming | -
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | 10 hours/week | - | core programming | -
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | - | core programming | -
+[Cloud Computing (Distributed Systems)](https://www.coursera.org/specializations/cloud-computing) | 16 weeks | 10 hours/week | - | C++ programming | -
 
-Systems **applications**:
+<!-- Systems **applications**:
 
 Courses | Duration | Effort | Additional Text| Prerequisites | Status
-:-- | :--: | :--: | :--: | :--: | :--:
-[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 20 weeks | 10 hours/week | C++ programming | - | -
-[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 12 weeks | 10 hours/week | strong programming | - | -
-<!-- [Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | 16 weeks | 10 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations) | - | - -->
+:-- | :--: | :--: | :--: | :--: | :--: -->
+
+## Professional
+This section requires **a break and a semester** and must be done before graduation.
+Courses | Duration | Effort | Prerequisites | Status
+:-- | :--: | :--: | :--: | :--:
+[The Missing Semester](https://missing.csail.mit.edu/) | 2 weeks | 10 hours/week | - | -
+[Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | 6 weeks | 10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | -
+[University of Helsinki, Full Stack Open](https://fullstackopen.com/en/) | 14 weeks | 10 hours/week | programming| -
 
 ## Recommended
 
