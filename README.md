@@ -8,8 +8,8 @@ Courses | Duration | Prerequisites | Status
 :-- | :--: | :--: | :--: 
 [Introduction to Programming and Computer Science](https://cs50.harvard.edu/x/2025/) | 12 weeks | [high school algebra](https://www.khanacademy.org/math/algebra-home) | ✅ -->
 ## Cores
-Both cores are to be done in **parallel**.
-#### Programming
+
+### Programming Core
 Courses | Duration | Prerequisites | Status
 :-- | :--: | :--: | :--:
 [Systematic Program Design](coursepages/spd/README.md) | 12 weeks | none | <-
@@ -17,7 +17,7 @@ Courses | Duration | Prerequisites | Status
 [Object-oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 12 weeks | Class Based Program Design |
 [Parallel Programming](https://www.coursera.org/specializations/scala) | 16 weeks | One year programming experience |
 
-#### Systems
+### Systems Core
 Courses | Duration | Additional| Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Computer Architecture](https://www.nand2tetris.org/) |  12 weeks | [I](https://www.coursera.org/learn/build-a-computer), [II](https://www.coursera.org/learn/nand2tetris2) | C-like programming language | <-
