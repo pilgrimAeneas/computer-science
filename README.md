@@ -76,8 +76,8 @@ This section requires **a break and a semester** and must be done before graduat
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Missing Semester](https://missing.csail.mit.edu/) | 2 weeks | 10 hours/week | - | -
-[Software Engineering](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | 6 weeks | 10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | -
-[Full Stack Open](https://fullstackopen.com/en/) | 14 weeks | 10 hours/week | programming| -
+[Software Engineering](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | 6 weeks | 10 hours/week | a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | -
+[Full Stack Open](https://fullstackopen.com/en/) | 14 weeks | 10 hours/week | - | -
 
 ## Recommended
 This section covers the *rest* of the theory usually offered in a decent CS school.
