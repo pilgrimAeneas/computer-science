@@ -12,8 +12,8 @@ Courses | Duration | Prerequisites | Additional | Status
 :-- | :--: | :--: | :--: | :--:
 [Systematic Program Design](coursepages/spd/README.md) | 12 weeks | none | [I](https://www.edx.org/learn/coding/university-of-british-columbia-how-to-code-simple-data), [II](https://www.edx.org/learn/coding/university-of-british-columbia-how-to-code-complex-data) | <-
 [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 12 weeks | Systematic Program Design, High School Math | none |
-[Object-oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 12 weeks | Class Based Program Design | none |
 [Programming Languages](https://homes.cs.washington.edu/~djg/teachingMaterials/spl/) | 12 weeks | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [A](https://www.coursera.org/learn/programming-languages), [B](https://www.coursera.org/learn/programming-languages-part-b), [C](https://www.coursera.org/learn/programming-languages-part-c) | 
+[Object-oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 12 weeks | Class Based Program Design | none |
 [Parallel Programming](https://www.coursera.org/specializations/scala) | 16 weeks | One year programming experience | none |
 
 ## Systems
