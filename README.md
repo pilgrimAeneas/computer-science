@@ -7,15 +7,16 @@
 Courses | Duration | Prerequisites | Status
 :-- | :--: | :--: | :--: 
 [Introduction to Programming and Computer Science](https://cs50.harvard.edu/x/2025/) | 12 weeks | [high school algebra](https://www.khanacademy.org/math/algebra-home) | ✅ -->
-## Computer Programming
-Courses | Duration | Prerequisites | Status
-:-- | :--: | :--: | :--:
-[Systematic Program Design](coursepages/spd/README.md) | 12 weeks | none | <-
-[Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 12 weeks | Systematic Program Design, High School Math |
-[Object-oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 12 weeks | Class Based Program Design |
-[Parallel Programming](https://www.coursera.org/specializations/scala) | 16 weeks | One year programming experience |
+## Programming
+Courses | Duration | Prerequisites | Additional | Status
+:-- | :--: | :--: | :--: | :--:
+[Systematic Program Design](coursepages/spd/README.md) | 12 weeks | none | [I](https://www.edx.org/learn/coding/university-of-british-columbia-how-to-code-simple-data), [II](https://www.edx.org/learn/coding/university-of-british-columbia-how-to-code-complex-data) | <-
+[Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 12 weeks | Systematic Program Design, High School Math | none |
+[Object-oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 12 weeks | Class Based Program Design | none |
+[Programming Languages](https://homes.cs.washington.edu/~djg/teachingMaterials/spl/) | 12 weeks | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [A](https://www.coursera.org/learn/programming-languages), [B](https://www.coursera.org/learn/programming-languages-part-b), [C](https://www.coursera.org/learn/programming-languages-part-c) | 
+[Parallel Programming](https://www.coursera.org/specializations/scala) | 16 weeks | One year programming experience | none |
 
-## Computer Systems
+## Systems
 Courses | Duration | Additional| Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Computer Architecture](https://www.nand2tetris.org/) |  12 weeks | [I](https://www.coursera.org/learn/build-a-computer), [II](https://www.coursera.org/learn/nand2tetris2) | C-like programming language | <-
@@ -24,29 +25,34 @@ Courses | Duration | Additional| Prerequisites | Status
 [Database Systems](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)| 6 weeks | [I](https://www.edx.org/course/modeling-and-theory), [II](https://www.edx.org/course/databases-5-sql), [III](https://www.edx.org/course/semistructured-data) | core programming |
 [Distributed Systems](https://www.coursera.org/specializations/cloud-computing) | 16 weeks | none | C++ programming |
 
-## Software Engineering
+<!-- ## Extensions
+This section covers the *rest* of the subjects usually offered in a decent CS school, but are less essential.
+Courses | Duration | Prerequisites | Additional | Status
+:-- | :--: | :--: | :--: | :--: -->
+
+## Profession
 This section is requires **a break and a semester** and must be done before graduation regardless of progress elsewhere.
 Courses | Duration | Prerequisites | Status
 :-- | :--: | :--: | :--:
 [Missing Semester](https://missing.csail.mit.edu/) | 2 weeks | none | 
 [Software Engineering](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | 6 weeks | a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | 
 [Full Stack Open](https://fullstackopen.com/en/) | 14 weeks | none | 
+___
 
-## Extensions
-This section covers the *rest* of the subjects usually offered in a decent CS school, but are less essential.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Optional
+
+### Optional theory
 Courses | Duration | Prerequisites | Additional | Status
 :-- | :--: | :--: | :--: | :--:
-[Algorithms](https://algs4.cs.princeton.edu/home/) | 12 weeks | Basic Java | [I](https://www.coursera.org/learn/algorithms-part1), [II](https://www.coursera.org/learn/algorithms-part2) | 
-[Languages](https://homes.cs.washington.edu/~djg/teachingMaterials/spl/) | 12 weeks | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [A](https://www.coursera.org/learn/programming-languages), [B](https://www.coursera.org/learn/programming-languages-part-b), [C](https://www.coursera.org/learn/programming-languages-part-c) | 
-[Compilers](https://www.edx.org/course/compilers) | 12 weeks | none |  | 
-
-<!-- ## Optional
-
-What is next for you? The possibilities are boundless and overlapping:
-
-Pay attention to emerging technologies in the world of software development:
-+ Explore the **actor model** through [Elixir](https://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
-+ Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
+[Algorithms](https://algs4.cs.princeton.edu/home/) | 12 weeks | Basic Java | [I](https://www.coursera.org/learn/algorithms-part1), [II](https://www.coursera.org/learn/algorithms-part2) |
+[Compilers](https://www.edx.org/course/compilers) | 12 weeks | none | none |
 
 ### Optional security
 
@@ -80,4 +86,4 @@ Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)| 9 weeks | 2 hours/week | none | -
 [Introduction to  Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property)| 4 weeks | 2 hours/week | none | -
-[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| 3 weeks | 3 hours/week | none | - -->
+[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| 3 weeks | 3 hours/week | none | -
