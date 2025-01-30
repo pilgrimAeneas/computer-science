@@ -31,7 +31,7 @@ Courses | Duration | Prerequisites | Additional | Status
 :-- | :--: | :--: | :--: | :--: -->
 
 ## Profession
-This section is requires **a break and a semester** and must be done before graduation regardless of progress elsewhere.
+This section requires **a break and a semester** and must be done before graduation.
 Courses | Duration | Prerequisites | Status
 :-- | :--: | :--: | :--:
 [Missing Semester](https://missing.csail.mit.edu/) | 2 weeks | none | 
