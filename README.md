@@ -16,4 +16,4 @@ Full Stack Open | [A](https://fullstackopen.com/en/) | [Getting Hired](https://w
 ## Systems
 Courses | Links | Additional | Status
 :-- | :--: | :--: | :--: |
-CS:APP3e | [A](https://csapp.cs.cmu.edu/) | [Dive into Systems: Chapter 1 and 2](https://diveintosystems.org/book/C1-C_intro/index.html) |
+CS:APP3e | [A](https://csapp.cs.cmu.edu/) | [Dive into Systems: Chapter 1 and 2](https://diveintosystems.org/book/C1-C_intro/index.html) | <-
