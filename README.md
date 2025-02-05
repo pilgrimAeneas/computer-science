@@ -8,6 +8,9 @@ Courses | Duration | Effort | Progress
 [How to Code: Simple Data](https://www.edx.org/learn/coding/university-of-british-columbia-how-to-code-simple-data)  | 6 weeks | 10 hours/week | <
 [How to Code: Complex Data](https://www.edx.org/learn/coding/university-of-british-columbia-how-to-code-complex-data) | 6 weeks | 10 hours/week | -
 [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 12 weeks | 8 hours/week | -
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 6 hours/week | -
+[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 4 weeks | 6 hours/week | -
+[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 4 weeks | 6 hours/week | -
 [Object-oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 12 weeks | 8 hours/week | -
 
 ## Software Engineering
@@ -21,22 +24,12 @@ Courses | Duration | Effort | Progress
 
 <sub>Software Engineering requires **a break and a semester** and must be done before graduation.</sub>
 
-## Systematic Program Design (Cont.)
-Courses | Duration | Effort | Progress
-:--: | :--: | :--: | :--:
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 6 hours/week | -
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 4 weeks | 6 hours/week | -
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 4 weeks | 6 hours/week | -
-[Data Structures and Algorithms, Part A](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | 8 hours/week
-[Data Structures and Algorithms, Part B](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | 8 hours/week
-[Data Structures and Algorithms, Part C](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 8 hours/week
-[Data Structures and Algorithms, Part D](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 8 hours/week
-
 ## Systems Programming
 Courses | Duration | Effort | Progress
 :--: | :--: | :--:   | :--:
 [Structure and Interpretation](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)  | 24 weeks | 10 hours/week | -
 [Computer Systems: APP3e](https://csapp.cs.cmu.edu/)  | 24 weeks | 10 hours/week | -
+[The Algorithm Design Manual](https://link.springer.com/book/10.1007/978-3-030-54256-6)  | 24 weeks | 10 hours/week | -
 [Compilers and Interpreters](https://www.edx.org/learn/computer-science/stanford-university-compilers)  | 12 weeks | 10 hours/week | -
 [The Rust Programming Language](https://doc.rust-lang.org/book/)  | 12 weeks | 10 hours/week | -
 [Rust in Action: Systems Programming](https://www.manning.com/books/rust-in-action) | 12 weeks | 10 hours/week | -
@@ -61,6 +54,13 @@ Courses | Duration | Effort | Progress
 
 
 
+<!-- ## Systematic Program Design (Cont.)
+Courses | Duration | Effort | Progress
+:--: | :--: | :--: | :--:
+[Data Structures and Algorithms, Part A](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | 8 hours/week
+[Data Structures and Algorithms, Part B](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | 8 hours/week
+[Data Structures and Algorithms, Part C](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 8 hours/week
+[Data Structures and Algorithms, Part D](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 8 hours/week -->
 
 
 <!-- ## Map
