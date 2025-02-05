@@ -29,10 +29,8 @@ Courses | Duration | Effort | Progress
 :--: | :--: | :--:   | :--:
 [Structure and Interpretation](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)  | 24 weeks | 10 hours/week | -
 [Computer Systems: APP3e](https://csapp.cs.cmu.edu/)  | 24 weeks | 10 hours/week | -
-[The Algorithm Design Manual](https://link.springer.com/book/10.1007/978-3-030-54256-6)  | 24 weeks | 10 hours/week | -
+[The Algorithm Design Manual](https://link.springer.com/book/10.1007/978-3-030-54256-6)  | 12 weeks | 10 hours/week | -
 [Compilers and Interpreters](https://www.edx.org/learn/computer-science/stanford-university-compilers)  | 12 weeks | 10 hours/week | -
-[The Rust Programming Language](https://doc.rust-lang.org/book/)  | 12 weeks | 10 hours/week | -
-[Rust in Action: Systems Programming](https://www.manning.com/books/rust-in-action) | 12 weeks | 10 hours/week | -
 
 
 
@@ -51,6 +49,8 @@ Courses | Duration | Effort | Progress
 
 
 
+<!-- [The Rust Programming Language](https://doc.rust-lang.org/book/)  | 12 weeks | 10 hours/week | -
+[Rust in Action: Systems Programming](https://www.manning.com/books/rust-in-action) | 12 weeks | 10 hours/week | - -->
 
 
 
