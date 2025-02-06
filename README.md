@@ -24,7 +24,7 @@ Courses | Duration | Effort | Progress
 [Git](https://learngitbranching.js.org/) and [Missing Semester](https://missing.csail.mit.edu/)  | 2 weeks | 10 hours/week | -
 [Full Stack Open](https://fullstackopen.com/en/) | 14 weeks | 15 hours/week | -
 
-<sub>Software Engineering requires **a break and a semester** and must be done before graduation.</sub>
+<sub>This section requires **a semester** at least and must be done before graduation.</sub>
 
 ## Programming and Systems Cont.
 Courses | Duration | Effort | Progress
