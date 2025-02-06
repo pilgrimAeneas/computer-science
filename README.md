@@ -15,7 +15,7 @@ Courses | Duration | Effort | Progress
 ## Software Engineering
 Courses | Duration | Effort | Progress
 :--: | :--: | :--: | :--:
-[Object-oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 8 weeks | 10 hours/week | -
+[Object-oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 12 weeks | 10 hours/week | -
 [Software Engineering](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction)  | 8 weeks | 10 hours/week | -
 
 ## Technologies and Stack
@@ -31,9 +31,9 @@ Courses | Duration | Effort | Progress
 :--: | :--: | :--:   | :--:
 [Structure and Interpretation](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)  | 24 weeks | 10 hours/week | -
 [Computer Systems: APP3e](https://csapp.cs.cmu.edu/)  | 24 weeks | 10 hours/week | -
-[Algorithms Analysis and Design](https://www.coursera.org/specializations/algorithms)  | 12 weeks | 10 hours/week | -
-[Compilers and Interpreters](https://www.edx.org/learn/computer-science/stanford-university-compilers)  | 12 weeks | 10 hours/week | -
-[Operating Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/)  | 12 weeks | 10 hours/week | -
+[Algorithms Analysis and Design](https://www.coursera.org/specializations/algorithms)  | 16 weeks | 10 hours/week | -
+[Compilers and Interpreters](https://www.edx.org/learn/computer-science/stanford-university-compilers)  | 10 weeks | 10 hours/week | -
+[Operating Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/)  | 10 weeks | 10 hours/week | -
 [Computer Networking](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)  | 8 weeks | 10 hours/week | -
 [Database Systems](https://www.youtube.com/user/CS186Berkeley/videos)  | 8 weeks | 10 hours/week | -
-[Distributed Systems](https://www.distributed-systems.net/index.php/books/ds4/)  | 8 weeks | 10 hours/week | -
+[Distributed Systems](https://www.coursera.org/specializations/cloud-computing)  | 16 weeks | 10 hours/week | -
