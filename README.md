@@ -15,14 +15,14 @@ Courses | Duration | Effort | Progress
 ## Software Engineering
 Courses | Duration | Effort | Progress
 :--: | :--: | :--: | :--:
-[Object-oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 12 weeks | 8 hours/week | -
-[Software Engineering](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction)  | 6 weeks | 10 hours/week | -
+[Object-oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 8 weeks | 10 hours/week | -
+[Software Engineering](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction)  | 8 weeks | 10 hours/week | -
 
 ## Technologies and Stack
 Courses | Duration | Effort | Progress
 :--: | :--: | :--: | :--:
 [Git](https://learngitbranching.js.org/) and [Missing Semester](https://missing.csail.mit.edu/)  | 2 weeks | 10 hours/week | -
-[Full Stack Open](https://fullstackopen.com/en/) | 14 weeks | 15 hours/week | -
+[Full Stack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | -
 
 <sub>This section requires **a semester** at least and must be done before graduation.</sub>
 
