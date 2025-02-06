@@ -11,20 +11,22 @@ Courses | Duration | Effort | Progress
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 6 hours/week | -
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 4 weeks | 6 hours/week | -
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 4 weeks | 6 hours/week | -
-[Object-oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 12 weeks | 8 hours/week | -
 
 ## Software Engineering
 Courses | Duration | Effort | Progress
 :--: | :--: | :--: | :--:
-[The Missing Semester](https://missing.csail.mit.edu/)  | 2 weeks | 10 hours/week | -
-[Learning Git Branching](https://learngitbranching.js.org/)  | 2 weeks | 5 hours/week | -
+[Object-oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 12 weeks | 8 hours/week | -
 [Software Engineering](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction)  | 6 weeks | 10 hours/week | -
+
+## Technologies and Stack
+Courses | Duration | Effort | Progress
+:--: | :--: | :--: | :--:
+[Git](https://learngitbranching.js.org/) and [Missing Semester](https://missing.csail.mit.edu/)  | 2 weeks | 10 hours/week | -
 [Full Stack Open](https://fullstackopen.com/en/) | 14 weeks | 15 hours/week | -
-[Getting Hired](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired) | 1 weeks | 8 hours/week | -
 
 <sub>Software Engineering requires **a break and a semester** and must be done before graduation.</sub>
 
-## Systems Programming
+## Programming and Systems Cont.
 Courses | Duration | Effort | Progress
 :--: | :--: | :--:   | :--:
 [Structure and Interpretation](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)  | 24 weeks | 10 hours/week | -
@@ -49,6 +51,7 @@ Courses | Duration | Effort | Progress
 
 
 
+<!-- [Getting Hired](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired) | 1 weeks | 8 hours/week | - -->
 <!-- [The Rust Programming Language](https://doc.rust-lang.org/book/)  | 12 weeks | 10 hours/week | -
 [Rust in Action: Systems Programming](https://www.manning.com/books/rust-in-action) | 12 weeks | 10 hours/week | - -->
 
