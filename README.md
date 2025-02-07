@@ -26,6 +26,8 @@ Courses | Duration | Effort | Progress
 
 <sub>This section requires **a semester** at least and must be done before graduation.</sub>
 
+
+<!-- Uncomment when you finish the first two sections above.
 ## Programming and Systems Cont.
 Courses | Duration | Effort | Progress
 :--: | :--: | :--:   | :--:
@@ -37,3 +39,4 @@ Courses | Duration | Effort | Progress
 [Computer Networking](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)  | 8 weeks | 10 hours/week | -
 [Database Systems](https://www.youtube.com/user/CS186Berkeley/videos)  | 8 weeks | 10 hours/week | -
 [Distributed Systems](https://www.coursera.org/specializations/cloud-computing)  | 16 weeks | 10 hours/week | -
+-->
