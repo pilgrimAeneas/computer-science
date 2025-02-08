@@ -26,6 +26,13 @@ Courses | Duration | Effort | Progress
 
 <sub>This section requires **a semester** at least and must be done before graduation.</sub>
 
+## What's Next?
+The possibilities are boundless and overlapping:
+- Look for a job as a developer!
+- Join a local developer meetup (e.g. via [meetup.com](https://www.meetup.com/)).
+- Check out the [readings](extras/readings.md) for classic books you can read that will expand your knowledge.
+- Pay attention to emerging technologies in the world of software development.
+    - Explore the **actor model** through [Elixir](https://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
 
 <!-- Uncomment when you finish the first two sections above.
 ## Programming and Systems Cont.
