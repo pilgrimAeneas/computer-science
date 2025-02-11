@@ -26,6 +26,16 @@ Courses | Duration | Effort | Progress
 
 <sub>This section requires **a semester** at least and must be done before graduation.</sub>
 
+## What's Next?
+The possibilities are boundless and overlapping:
+- Look for a job as a developer!
+- Join a local developer meetup (e.g. via [meetup.com](https://www.meetup.com/)).
+- Check out the [readings](#programming-and-systems-cont) for classic books you can read that will sharpen your skills and expand your knowledge.
+- Pay attention to emerging technologies in the world of software development:
+  + Explore the **actor model** through [Elixir](https://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
+  + Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
+  + Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development.
+
 ## Programming and Systems Cont.
 Courses | Duration | Effort | Progress
 :--: | :--: | :--:   | :--:
@@ -38,13 +48,3 @@ Courses | Duration | Effort | Progress
 [Computer Networking](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)  | 8 weeks | 10 hours/week | -
 [Database Systems](https://www.youtube.com/user/CS186Berkeley/videos)  | 8 weeks | 10 hours/week | -
 [Distributed Systems](https://www.coursera.org/specializations/cloud-computing)  | 16 weeks | 10 hours/week | -
-
-## What's Next?
-The possibilities are boundless and overlapping:
-- Look for a job as a developer!
-- Join a local developer meetup (e.g. via [meetup.com](https://www.meetup.com/)).
-- Check out the [readings](extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
-- Pay attention to emerging technologies in the world of software development:
-  + Explore the **actor model** through [Elixir](https://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
-  + Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
-  + Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development.
