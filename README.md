@@ -24,15 +24,6 @@ Courses | Duration | Effort | Progress
 [Git](https://learngitbranching.js.org/) and [Missing Semester](https://missing.csail.mit.edu/)  | 2 weeks | 10 hours/week | -
 [Full Stack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | -
 
-<!--
-Supplemets | Duration | Effort | Progress
-:--: | :--: | :--: | :--:
-[Operating Systems]()  | 4 weeks | 3 lectures/week | -
-[Computer Networking]()  | 4 weeks | 3 lectures/week | -
-[Database Systems]()  | 4 weeks | 3 lectures/week | -
-[Distributed Systems]()  | 4 weeks | 3 lectures/week | -
--->
-
 <sub>This section requires **a semester** at least and must be done before graduation.</sub>
 
 ## What's Next?
