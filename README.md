@@ -24,27 +24,31 @@ Courses | Duration | Effort | Progress
 [Git](https://learngitbranching.js.org/) and [Missing Semester](https://missing.csail.mit.edu/)  | 2 weeks | 10 hours/week | -
 [Full Stack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | -
 
+<!--
+Supplemets | Duration | Effort | Progress
+:--: | :--: | :--: | :--:
+[Operating Systems]()  | 4 weeks | 3 lectures/week | -
+[Computer Networking]()  | 4 weeks | 3 lectures/week | -
+[Database Systems]()  | 4 weeks | 3 lectures/week | -
+[Distributed Systems]()  | 4 weeks | 3 lectures/week | -
+-->
+
 <sub>This section requires **a semester** at least and must be done before graduation.</sub>
 
 ## What's Next?
 The possibilities are boundless and overlapping:
 - Look for a job as a developer!
+- Start the [readings](#programming-and-systems-cont) section.
 - Join a local developer meetup (e.g. via [meetup.com](https://www.meetup.com/)).
-- Check out the [readings](#programming-and-systems-cont) for classic books you can read that will sharpen your skills and expand your knowledge.
 - Pay attention to emerging technologies in the world of software development:
   + Explore the **actor model** through [Elixir](https://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
   + Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
   + Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development.
 
-## Programming and Systems Cont.
+## Readings
 Courses | Duration | Effort | Progress
 :--: | :--: | :--:   | :--:
-[Structure and Interpretation](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)  | 24 weeks | 10 hours/week | -
+[Structure and Interpretation](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)  | 32 weeks | 10 hours/week | -
 [Computer Systems: APP3e](https://csapp.cs.cmu.edu/)  | 24 weeks | 10 hours/week | -
-[Compilers and Interpreters](https://www.edx.org/learn/computer-science/stanford-university-compilers)  | 10 weeks | 10 hours/week | -
-[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)  | 6 weeks | 10 hours/week | -
-[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)  | 6 weeks | 10 hours/week | -
-[Operating Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/)  | 10 weeks | 10 hours/week | -
-[Computer Networking](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)  | 8 weeks | 10 hours/week | -
-[Database Systems](https://www.youtube.com/user/CS186Berkeley/videos)  | 8 weeks | 10 hours/week | -
-[Distributed Systems](https://www.coursera.org/specializations/cloud-computing)  | 16 weeks | 10 hours/week | -
+[The Algorithm Design Manual](https://www.algorist.com/)  | 16 weeks | 10 hours/week | -
+[Crafting Interpreters](https://craftinginterpreters.com/)  | 16 weeks | 10 hours/week | -
