@@ -1,6 +1,6 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
-#reader(lib "htdp-beginner-reader.ss" "lang")((modname arrange-images-starter) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname sort-again) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
 (require 2htdp/image)
 
 ;; Constants
@@ -59,35 +59,22 @@
 
 (define (sort-images loi)
   (cond [(empty? loi) empty]
-        [else (cons (smallest loi)
-                    (sort-images (remove-smallest loi)))]))
-
-;; ListOfImage -> ListOfImage
-;; produce new list by removing smallest image in given list
-(check-expect (remove-smallest LOI1) empty)
-(check-expect (remove-smallest (cons IMG2 (cons IMG3 (cons IMG1 empty))))
-              (cons IMG2 (cons IMG3 empty)))
-
-(define (remove-smallest loi)
-  (cond [(empty? loi) empty]
         [else
-         (if (image=? (first loi) (smallest loi))
-             (rest loi)
-             (cons (first loi)
-                   (remove-smallest (rest loi))))]))
+         (insert (first loi)
+                 (sort-images (rest loi)))]))
 
-;; ListOfImage -> Image
-;; produce the smallest image in a given list
-(check-expect (smallest LOI1) (square 9999 "solid" "white"))
-(check-expect (smallest (cons IMG2 (cons IMG3 (cons IMG1 empty)))) IMG1)
+;; Image ListOfImage -> ListOfImage
+;; produce list with image added in correct place
+;; ASSUME: loi is sorted by size
+(check-expect (insert IMG1 LOI1) (cons IMG1 empty))
+(check-expect (insert IMG2 (cons IMG1 (cons IMG3 empty)))
+              (cons IMG1 (cons IMG2 (cons IMG3 empty))))
 
-(define (smallest loi)
-  (cond [(empty? loi) (square 9999 "solid" "white")]
-        [else
-         (if (smaller-than? (first loi)
-                            (smallest (rest loi)))
-             (first loi)
-             (smallest (rest loi)))]))
+(define (insert i loi)
+  (cond [(empty? loi) (cons i empty)]
+        [else (if (smaller-than? i (first loi))
+                  (cons i loi)
+                  (cons (first loi) (insert i (rest loi))))]))
 
 ;; Image Image -> Boolean
 ;; produce true if first image is smaller than second
