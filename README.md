@@ -29,7 +29,6 @@ Courses | Duration | Effort | Progress
 
 ## What's Next?
 The possibilities are boundless and overlapping:
-- Look for a job as a programmer!
 - Join a local developer meetup (e.g. via [meetup.com](https://www.meetup.com/)).
 - Pay attention to emerging technologies in the world of computers.
 - Build your own architecture, operating system, compiler and programming language.
