@@ -11,16 +11,15 @@ Courses | Duration | Effort | Progress
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 6 hours/week | -
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 4 weeks | 6 hours/week | -
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 4 weeks | 6 hours/week | -
+[Object-oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 12 weeks | 10 hours/week | -
 
-## Software Development
+**Technologies and Stack:**
 Courses | Duration | Effort | Progress
 :--: | :--: | :--: | :--:
-[Object-oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 12 weeks | 10 hours/week | -
-[Software Engineering](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction)  | 8 weeks | 10 hours/week | -
-[Missing Semester](https://missing.csail.mit.edu/) - [Git](https://learngitbranching.js.org/) | 2 weeks | 10 hours/week | -
-[Full Stack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | -
+[Git](https://learngitbranching.js.org/) - [Missing Semester](https://missing.csail.mit.edu/) - [SWE: Intro](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction)  | 12 weeks | 10 hours/week | -
+[Helsinki's Full Stack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | -
 
-## Readings
+## Systems Programming
 Courses | Duration | Effort | Progress
 :--: | :--: | :--:   | :--:
 [Structure and Interpretation](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)  | 32 weeks | 10 hours/week | -
