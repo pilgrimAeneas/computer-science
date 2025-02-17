@@ -2,7 +2,7 @@
 <h1>Wizard-class Programming and Computer Science</h1>
 </div>
 
-## Programming and Software Development
+## Professional Programming
 Courses | Duration | Effort | Progress
 :--: | :--: | :--: | :--:
 [How to Code: Simple Data](https://www.edx.org/learn/coding/university-of-british-columbia-how-to-code-simple-data)  | 7 weeks | 10 hours/week | <
