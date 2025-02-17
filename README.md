@@ -7,7 +7,7 @@ Courses | Duration | Effort | Progress
 :--: | :--: | :--: | :--:
 [Systematic Program Design: A](https://www.edx.org/learn/coding/university-of-british-columbia-how-to-code-simple-data) [B](https://www.edx.org/learn/coding/university-of-british-columbia-how-to-code-complex-data)  | 10 weeks | 10 hours/week | <
 [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 10 weeks | 10 hours/week | -
-[Programming Languages: A](https://www.coursera.org/learn/programming-languages) [B](https://www.coursera.org/learn/programming-languages-part-b) [C](https://www.coursera.org/learn/programming-languages-part-c) | 10 weeks | 8 hours/week | -
+[Programming Languages: A](https://www.coursera.org/learn/programming-languages) [B](https://www.coursera.org/learn/programming-languages-part-b) [C](https://www.coursera.org/learn/programming-languages-part-c) | 10 weeks | 10 hours/week | -
 [Missing](https://missing.csail.mit.edu/) - [Branching](https://learngitbranching.js.org/) - [OOD](https://course.ccs.neu.edu/cs3500f19/) - [SWE](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) - [FSO](https://fullstackopen.com/en/)  | 20 weeks | 25 hours/week | -
 
 ## Systems Programming
