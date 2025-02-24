@@ -25,6 +25,5 @@ The possibilities are boundless and overlapping:
 
 Courses | Duration | Effort | Progress
 :--: | :--: | :--:   | :--:
-[Structure and Interpretation](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html) | 30 weeks | 12+ hours/week | -
-[Computer Systems: APP3e](https://csapp.cs.cmu.edu/) | 24 weeks | 12+ hours/week | -
-[Crafting Interpreters](https://craftinginterpreters.com/)  | 18 weeks | 12+ hours/week | -
+[Structure and Interpretation](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html) | 24 weeks | 12+ hours/week | -
+[Crafting Interpreters](https://craftinginterpreters.com/)  | 20 weeks | 12+ hours/week | -
