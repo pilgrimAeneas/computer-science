@@ -21,7 +21,6 @@ The possibilities are boundless and overlapping:
 - Join developer meetups and discord servers (e.g. via [meetup.com](https://www.meetup.com/) and [discord.com](https://www.discord.com)).
 - Build your own architecture, operating system, compiler and programming language.
 - Pay attention to emerging technologies in the world of computers.
-- Continue your journey.
 
 Courses | Duration | Effort | Progress
 :--: | :--: | :--:   | :--:
