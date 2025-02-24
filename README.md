@@ -12,9 +12,8 @@ Courses | Duration | Effort | Progress
 ## Systems Programming
 Courses | Duration | Effort | Progress
 :--: | :--: | :--:   | :--:
-[Building a Modern Computer from First Principles](https://www.nand2tetris.org/) | 16 weeks | 12+ hours/week | -
 [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 16 weeks | 12+ hours/week | -
-[Computer Networking: A Top-down](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)[ Approach](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | 12 weeks | 12+ hours/week | -
+[Computer Networking: A Top-down](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)[ Approach](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | 16 weeks | 12+ hours/week | -
 [Distributed Systems and Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | 16 weeks | 12+ hours/week | -
 
 ## What's Next?
