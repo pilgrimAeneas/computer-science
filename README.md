@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center">
-<h1>Wizard-class Programming and Computer Science</h1>
+<h1>Wizard-class Programming</h1>
 </div>
 
 ## Professional Programming
